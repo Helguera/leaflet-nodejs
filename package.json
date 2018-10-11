@@ -1,0 +1,28 @@
+{
+  "name": "leaflet-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Helguera/leaflet-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Helguera/leaflet-nodejs/issues"
+  },
+  "homepage": "https://github.com/Helguera/leaflet-nodejs#readme",
+  "dependencies": {
+    "ejs-mate": "^2.3.0",
+    "express": "^4.16.4",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
