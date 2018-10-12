@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Helguera/leaflet-nodejs#readme",
   "dependencies": {
+    "ejs": "^2.6.1",
     "ejs-mate": "^2.3.0",
     "express": "^4.16.4",
     "socket.io": "^2.1.1"
